@@ -1,0 +1,1 @@
+for (let i = 12; i < 30; i++) { console.log("giá trị i hiện tại là :", i); }

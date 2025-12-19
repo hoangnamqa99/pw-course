@@ -1,0 +1,1 @@
+for (let i = 10000; i >= 2000; i--) if (i % 3 == 0) { console.log(" giá trị i chia hết cho 3 là ", i); }
